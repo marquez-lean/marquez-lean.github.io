@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(245, 241, 179);    
+}
+
+#datos {
+    margin-top: 6%;
+    padding: 2%;  
+}
+ 
+ul {
+ font-family: 'Anton', sans-serif;
+}
+
+p {
+    padding: 2%;
+    font-size: xx-large;
+    font-style: italic;
+}
+ 
+#columnadecolor {
+    background-color: mediumaquamarine; 
+    border: solid;
+    font-size: small;
+    margin-top: 2%;
+ }
+
+ #fotodeperfil {
+     margin-left: 20%;
+     margin-right: 30%;
+     margin-top: 10%;
+     margin-bottom: 10%;
+     text-align: center;
+ }
+
+ #datosadicionales {
+    text-align: center;
+ }
+
+ #botonTexto{
+      border: solid white;
+      background-color: white;
+      width: 250px;
+ }
+ 
+.mostrar {
+    display: block;
+}
+
+.esconder {
+    display: none;
+}
+
+#Reloj {
+    margin-left: 645px ;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
